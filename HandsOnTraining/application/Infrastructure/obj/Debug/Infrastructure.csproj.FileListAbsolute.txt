@@ -1,0 +1,7 @@
+E:\Developement\Contracts\oDesk\RaviDataGlobe\HandsOnTraining\application\Infrastructure\bin\Debug\RaviDataGlobe.HandsOnTraining.Infrastructure.dll
+E:\Developement\Contracts\oDesk\RaviDataGlobe\HandsOnTraining\application\Infrastructure\bin\Debug\RaviDataGlobe.HandsOnTraining.Infrastructure.pdb
+E:\Developement\Contracts\oDesk\RaviDataGlobe\HandsOnTraining\application\Infrastructure\bin\Debug\RaviDataGlobe.HandsOnTraining.Core.dll
+E:\Developement\Contracts\oDesk\RaviDataGlobe\HandsOnTraining\application\Infrastructure\bin\Debug\RaviDataGlobe.HandsOnTraining.Core.pdb
+E:\Developement\Contracts\oDesk\RaviDataGlobe\HandsOnTraining\application\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+E:\Developement\Contracts\oDesk\RaviDataGlobe\HandsOnTraining\application\Infrastructure\obj\Debug\RaviDataGlobe.HandsOnTraining.Infrastructure.dll
+E:\Developement\Contracts\oDesk\RaviDataGlobe\HandsOnTraining\application\Infrastructure\obj\Debug\RaviDataGlobe.HandsOnTraining.Infrastructure.pdb

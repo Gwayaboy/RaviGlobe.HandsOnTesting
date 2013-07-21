@@ -1,0 +1,13 @@
+E:\Developement\Contracts\oDesk\RaviDataGlobe\HandsOnTraining\tests\HandsOnTraining.UnitTests\bin\Debug\RaviDataGlobe.HandsOnTraining.UnitTests.dll
+E:\Developement\Contracts\oDesk\RaviDataGlobe\HandsOnTraining\tests\HandsOnTraining.UnitTests\bin\Debug\RaviDataGlobe.HandsOnTraining.UnitTests.pdb
+E:\Developement\Contracts\oDesk\RaviDataGlobe\HandsOnTraining\tests\HandsOnTraining.UnitTests\bin\Debug\Machine.Fakes.Adapters.NSubstitute.dll
+E:\Developement\Contracts\oDesk\RaviDataGlobe\HandsOnTraining\tests\HandsOnTraining.UnitTests\bin\Debug\Machine.Fakes.dll
+E:\Developement\Contracts\oDesk\RaviDataGlobe\HandsOnTraining\tests\HandsOnTraining.UnitTests\bin\Debug\Machine.Specifications.Clr4.dll
+E:\Developement\Contracts\oDesk\RaviDataGlobe\HandsOnTraining\tests\HandsOnTraining.UnitTests\bin\Debug\Machine.Specifications.dll
+E:\Developement\Contracts\oDesk\RaviDataGlobe\HandsOnTraining\tests\HandsOnTraining.UnitTests\bin\Debug\NSubstitute.dll
+E:\Developement\Contracts\oDesk\RaviDataGlobe\HandsOnTraining\tests\HandsOnTraining.UnitTests\bin\Debug\Machine.Fakes.xml
+E:\Developement\Contracts\oDesk\RaviDataGlobe\HandsOnTraining\tests\HandsOnTraining.UnitTests\bin\Debug\Machine.Fakes.Adapters.NSubstitute.xml
+E:\Developement\Contracts\oDesk\RaviDataGlobe\HandsOnTraining\tests\HandsOnTraining.UnitTests\bin\Debug\NSubstitute.xml
+E:\Developement\Contracts\oDesk\RaviDataGlobe\HandsOnTraining\tests\HandsOnTraining.UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+E:\Developement\Contracts\oDesk\RaviDataGlobe\HandsOnTraining\tests\HandsOnTraining.UnitTests\obj\Debug\RaviDataGlobe.HandsOnTraining.UnitTests.dll
+E:\Developement\Contracts\oDesk\RaviDataGlobe\HandsOnTraining\tests\HandsOnTraining.UnitTests\obj\Debug\RaviDataGlobe.HandsOnTraining.UnitTests.pdb
