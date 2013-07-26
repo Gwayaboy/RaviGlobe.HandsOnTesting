@@ -1,4 +1,5 @@
-﻿@model IEnumerable<RaviDataGlobe.HandsOnTraining.Core.Domain.Task>
+﻿@using RaviDataGlobe.HandsOnTraining.Web.helpers
+@model IEnumerable<RaviDataGlobe.HandsOnTraining.Core.Domain.Task>
 
 @{
     ViewBag.Title = "Index";
@@ -20,24 +21,30 @@
         </th>
         <th></th>
     </tr>
+    <tbody data-bind="foreach : tasks">
+        <tr >
+            <td data-bind="text: Description"></td>
+            <td data-bind="text: Expires"></td>
+            <td data-bind="text: IsCompleted"></td>
+            <td>
+      
+            </td>
+        </tr>
+    </tbody>
+  
 
-@foreach (var item in Model) {
-    <tr>
-        <td>
-            @Html.DisplayFor(modelItem => item.Description)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.Expires)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.IsCompleted)
-        </td>
-        <td>
-         @*   @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
-            @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
-            @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })*@
-        </td>
-    </tr>
-}
+    <script src="~/Scripts/jquery-2.0.3.min.js"></script>
+    <script src="~/Scripts/knockout-2.3.0.debug.js"></script>
+    
+    <script>
+        $(function() {
+            var tasks = @Html.Raw(@Model.ToJsonArray());
 
+            viewModel = {
+                tasks:  ko.observableArray(tasks)               
+            };
+
+            ko.applyBindings(viewModel);
+        });
+    </script>
 </table>

@@ -36,3 +36,7 @@ E:\Developement\Contracts\oDesk\RaviDataGlobe\HandsOnTraining\application\Web\bi
 E:\Developement\Contracts\oDesk\RaviDataGlobe\HandsOnTraining\application\Web\bin\RaviDataGlobe.HandsOnTraining.Infrastructure.pdb
 E:\Developement\Contracts\oDesk\RaviDataGlobe\HandsOnTraining\application\Web\obj\Debug\RaviDataGlobe.HandsOnTraining.Web.dll
 E:\Developement\Contracts\oDesk\RaviDataGlobe\HandsOnTraining\application\Web\obj\Debug\RaviDataGlobe.HandsOnTraining.Web.pdb
+E:\Developement\Contracts\oDesk\RaviDataGlobe\HandsOnTraining\application\Web\bin\Antlr3.Runtime.dll
+E:\Developement\Contracts\oDesk\RaviDataGlobe\HandsOnTraining\application\Web\bin\Microsoft.Web.Optimization.dll
+E:\Developement\Contracts\oDesk\RaviDataGlobe\HandsOnTraining\application\Web\bin\System.Web.Optimization.dll
+E:\Developement\Contracts\oDesk\RaviDataGlobe\HandsOnTraining\application\Web\bin\WebGrease.dll
